@@ -1,4 +1,4 @@
-<img src="https://www.freepik.com/free-vector/programmer-working-desk_5614134.htm#query=female%20programmer&position=8&from_view=keyword&track=ais&uuid=969926d1-d8eb-4e9d-9de8-86d605855871" alt="coding" align="right" width="400"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fwoman-coding&psig=AOvVaw0eDlXLuVLFbJ2I1UENGzFx&ust=1702833622828000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLie6-a7lIMDFQAAAAAdAAAAABAD" alt="coding" align="right" width="400"/>
 
 <h1 align="center">Hi 👋, I'm Isha Mahajan</h1>
 <h3 align="center">A passionate developer from India</h3>
