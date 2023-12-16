@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isha Mahajan</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img src="https://www.freepik.com/free-vector/programmer-working-desk_5614134.htm#query=female%20programmer&position=8&from_view=keyword&track=ais&uuid=969926d1-d8eb-4e9d-9de8-86d605855871" alt="coding"/>
+<img src="https://www.freepik.com/free-vector/programmer-working-desk_5614134.htm#query=female%20programmer&position=8&from_view=keyword&track=ais&uuid=969926d1-d8eb-4e9d-9de8-86d605855871" alt="coding" align="right" width="400"/>
 - 👨‍💻 All of my projects are available at [https://github.com/Isha-droid/Isha-droid](https://github.com/Isha-droid/Isha-droid)
 
 - 📫 Reach me at **mahajanisha508@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/public-profile/settings</h3>
 <p align="left">
 </p>
 
