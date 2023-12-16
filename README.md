@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isha Mahajan</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw07ggCRjl13ZWEIfm-uO-aF&ust=1702832532970000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCk1dy3lIMDFQAAAAAdAAAAABAE" alt="coding"/>
+<img src="https://www.freepik.com/free-vector/programmer-working-desk_5614134.htm#query=female%20programmer&position=8&from_view=keyword&track=ais&uuid=969926d1-d8eb-4e9d-9de8-86d605855871" alt="coding"/>
 - 👨‍💻 All of my projects are available at [https://github.com/Isha-droid/Isha-droid](https://github.com/Isha-droid/Isha-droid)
 
 - 📫 Reach me at **mahajanisha508@gmail.com**
