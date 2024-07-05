@@ -88,3 +88,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha-droid&layout=compact" alt="Isha-droid's Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isha-droid&theme=radical" alt="Isha-droid's GitHub Streak" />
+</p>
