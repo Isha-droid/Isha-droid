@@ -1,4 +1,5 @@
-![Coding Animation](https://media.giphy.com/media/3o6Zt4tF6p3k34mOYY/giphy.gif)
+<img src="https://media.giphy.com/media/3o6Zt4tF6p3k34mOYY/giphy.gif" alt="Coding Animation" style="width: 100%; height: auto;" />
+
 # 💫 About Me:
 🔭 I’m currently working on **Spring, Cloud, React, Ethereum** <br>🌱 I’m currently learning **GenAI, Data Streaming**<br>💬 Ask me about "how to be a lazy developer"<br>⚡ Fun fact I have mastered the art of googling errors
 
