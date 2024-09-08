@@ -1,3 +1,4 @@
+<img src="https://path/to/animated-coding-image.jpg" alt="coding" align="right" width="400"/>
 
 # Hi 👋, I'm Isha Mahajan
 ### A passionate developer from India
