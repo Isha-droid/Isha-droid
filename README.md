@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif?cid=790b7611k2z7lappvpp4fh8ik2skcth6um9ahibe57qicput&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding Animation" style="width: 100%; height: auto;" />
+<img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif?cid=790b7611k2z7lappvpp4fh8ik2skcth6um9ahibe57qicput&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding Animation" style="width: 100%; height: auto; display: block;" />
+
 
 # 💫 About Me:
 🔭 I’m currently working on **Spring, Cloud, React, Ethereum** <br>🌱 I’m currently learning **GenAI, Data Streaming**<br>💬 Ask me about "how to be a lazy developer"<br>⚡ Fun fact I have mastered the art of googling errors
