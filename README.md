@@ -52,12 +52,14 @@
 [![vscode](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
 
 
-
-### 📊 Github Stats
+### 📊 GitHub Stats
 <a href='https://github.com/Isha-droid/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/Isha-droid/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Isha-droid/github-stats-transparent/output/generated/languages.svg)
+  <img src="https://raw.githubusercontent.com/Isha-droid/github-stats-transparent/output/generated/languages.svg" alt="Most Used Languages" width="45%" />
+  <img src="https://raw.githubusercontent.com/Isha-droid/github-stats-transparent/output/generated/streak.svg" alt="Streak" width="45%" />
+</a>
+<br/>
+<img src="https://raw.githubusercontent.com/Isha-droid/github-stats-transparent/output/generated/trophies.svg" alt="Trophies" width="100%" />
+
 
 
 </a>
