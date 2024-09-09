@@ -1,4 +1,4 @@
-## 🌟 Passionate Learner & Problem Solver
+<h2 align="center">🌟 Passionate Learner & Problem Solver</h2>
 
 - 🌱 I’m currently learning **Spring, Cloud, GenAI, Data Streaming**
 
