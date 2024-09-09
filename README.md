@@ -51,21 +51,12 @@
 
 # 📊 GitHub Stats
 
-![Isha-Droid's Stats](https://github-readme-stats.vercel.app/api?username=isha-droid&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
+![Isha-Droid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isha-droid&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
 
-# Github Contribution Graph
+## GitHub | Quine Stats
 
-[![Isha-Droid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isha-droid&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Isha-Droid's Quine GitHub Stats](https://stats.quine.sh/isha-droid/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=isha-droid)
 
-# Quine Widgets
-
-## Github | Stats
-
-[![Isha-Droid's GitHub | Stats](https://stats.quine.sh/isha-droid/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=isha-droid)
-
-## Languages Over Time
-
-[![Isha-Droid's GitHub | Languages Over Time](https://stats.quine.sh/isha-droid/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=isha-droid)
 
 ## 🏆 GitHub Trophies
 
