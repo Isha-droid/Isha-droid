@@ -11,10 +11,14 @@
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Data Streaming, GenAI**
+- 🌱 &nbsp; I’m learning about **Cloud Computing** and **AI Ethics**
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/isha-mahajan-838882262/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1EA-BHHt04SazyrYEJSEZXd-ovC5v061q/view?usp=sharing)
-- 📚 &nbsp; Fun fact : I have mastered the art of googling errors
+- 📚 &nbsp; Fun fact: I have mastered the art of googling errors
+- 🎨 &nbsp; I enjoy **building** and experimenting with **new tech stacks**
+- 🎮 &nbsp; In my free time, I love **reading books**
+
 
 <br>
 
@@ -29,7 +33,6 @@
 [![Redux](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev)
 
-### Backend 🤕
 
 [![NodeJs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
 [![ExpressJs](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev)
@@ -41,7 +44,6 @@
 [![java](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
 [![python](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
 
-### Others
 
 [![netlify](https://skillicons.dev/icons?i=netlify&perline=3)](https://skillicons.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel&perline=3)](https://skillicons.dev)
