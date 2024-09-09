@@ -53,9 +53,10 @@
 ### 📊 Github Stats
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha-droid&layout=compact" alt="Top Languages" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Isha-droid" alt="Streak Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha-droid&layout=compact" alt="Top Languages" width="48%" height="250" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Isha-droid" alt="Streak Stats" width="48%" height="250" />
 </div>
+
 
 <br>
 
