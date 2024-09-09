@@ -1,6 +1,7 @@
 <div align="center">
 
 <h1>🌟 Passionate Learner & Problem Solver</h1>
+</div>
 
 - 🌱 I’m currently learning **Spring, Cloud, GenAI, Data Streaming**
 
@@ -10,7 +11,7 @@
 
 - ⚡ Fun fact: **I’ve perfected the art of Googling error messages.**
 
-</div>
+
 
 
 # 🌐 Socials
