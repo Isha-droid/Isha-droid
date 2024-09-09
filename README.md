@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Passionate Learner & Problem Solver, looking for opportunities in every challenge</h1>
+<h2> Passionate Learner & Problem Solver, looking for opportunities in every challenge</h2>
 </div>
 
 - 🌱 I’m currently learning **Spring, Cloud, GenAI, Data Streaming**
