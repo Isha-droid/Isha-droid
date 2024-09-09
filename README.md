@@ -24,8 +24,7 @@
 <br>
 
 
-### Frontend 🧑‍💻
-
+### Tech Stack
 [![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
 [![Javascript](https://skillicons.dev/icons?i=javascript&perline=3)](https://skillicons.dev)
@@ -34,10 +33,6 @@
 [![NextJs](https://skillicons.dev/icons?i=nextjs&perline=3)](https://skillicons.dev)
 [![Redux](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev)
-
-
-### Backend 🤕
-
 [![NodeJs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
 [![ExpressJs](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev)
 [![MongoDb](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
@@ -47,9 +42,6 @@
 [![c](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev)
 [![java](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
 [![python](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
-
-### Others
-
 [![netlify](https://skillicons.dev/icons?i=netlify&perline=3)](https://skillicons.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel&perine=3)](https://skillicons.dev)
 [![docker](https://skillicons.dev/icons?i=docker&perline=3)](https://skillicons.dev)
@@ -66,6 +58,7 @@
   
 ![Stats Overview](https://raw.githubusercontent.com/Isha-droid/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/Isha-droid/github-stats-transparent/output/generated/languages.svg)
+
 
 </a>
 
