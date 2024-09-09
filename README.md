@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Isha 👋 I'm a Web Developer ">
-</p>
+## 🌟 Passionate Learner & Problem Solver
+
+- 🌱 I’m currently learning **Spring, Cloud, GenAI, Data Streaming**
+
+- 💬 Ask me about **MERN, Spring Boot, Go, Next**
+
+- 📫 How to reach me: **mahajanisha508@gmail.com**
+
+- ⚡ Fun fact: **I’ve perfected the art of Googling error messages.**
 
 # 🌐 Socials
 
