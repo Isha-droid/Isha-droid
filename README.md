@@ -1,27 +1,27 @@
-<div align="center">
+## Hey 👋, I'm Isha Mahajan!
+<a href='https://www.linkedin.com/in/isha-mahajan-838882262/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
-<h2> Passionate Learner & Problem Solver, looking for opportunities in every challenge</h2>
-</div>
+"I'm a versatile developer who adapts to whatever the project demands—whether it's Full Stack Web Development 🌐 or exploring System Designs 🎨. I love diving into new tech stacks 💻 and using them to create innovative solutions 🛠️, always eager to learn and build something impactful
+<br/>
+<br/>
 
-- 🌱 I’m currently learning **Spring, Cloud, GenAI, Data Streaming**
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-- 💬 Ask me about **MERN, Spring Boot, Go, Next**
+- 🔭 &nbsp; I’m currently working on **Data Streaming, GenAI**
 
-- 📫 How to reach me: **mahajanisha508@gmail.com**
-
-- ⚡ Fun fact: **I’ve perfected the art of Googling error messages.**
-
-
-
-
-# 🌐 Socials
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/isha-mahajan-838882262/)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/isha-mahajan-838882262/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1EA-BHHt04SazyrYEJSEZXd-ovC5v061q/view?usp=sharing)
+- 📚 &nbsp; Fun fact : I have mastered the art of googling errors 
 
 
-# 💻 Tech Stack
 
-## Frontend 🧑‍💻
+<br>
+
+
+### Frontend 🧑‍💻
 
 [![HTML](https://skillicons.dev/icons?i=html&perline=3)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
@@ -33,7 +33,7 @@
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev)
 
 
-## Backend 🤕
+### Backend 🤕
 
 [![NodeJs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
 [![ExpressJs](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev)
@@ -45,7 +45,7 @@
 [![java](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
 [![python](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
 
-## Others
+### Others
 
 [![netlify](https://skillicons.dev/icons?i=netlify&perline=3)](https://skillicons.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel&perine=3)](https://skillicons.dev)
@@ -56,20 +56,15 @@
 [![tensorflow](https://skillicons.dev/icons?i=tensorflow&perline=3)](https://skillicons.dev)
 [![vscode](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
 
-# 📊 GitHub Stats
-
-![Isha-Droid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isha-droid&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
 
 
-## 🏆 GitHub Trophies
+### 📊 Github Stats
+<a href='https://github.com/Isha-droid/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/Isha-droid/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Isha-droid/github-stats-transparent/output/generated/languages.svg)
 
-![](https://github-profile-trophy.vercel.app/?username=isha-droid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</a>
 
-### ✍ Random Dev Quote
+<br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br />
-<br />
-<br />
-<br />
