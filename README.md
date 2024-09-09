@@ -1,9 +1,6 @@
-<!-- Cover Image -->
-<img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif?cid=790b7611k2z7lappvpp4fh8ik2skcth6um9ahibe57qicput&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding Animation" style="width: 100%; height: auto; display: block;" />
-
-# About Me
-
-<h2>  I'm Isha Mahajan , a passionate web developer with a love for turning innovative ideas into user-friendly digital experiences. I specialize in full-stack development, with a particular focus on the spring and the seamless integration of trending technologies .</h2>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 
 # 🌐 Socials
 
