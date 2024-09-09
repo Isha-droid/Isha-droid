@@ -10,11 +10,14 @@
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Data Streaming, GenAI**
-
+- 🌱 &nbsp; I’m learning about **Cloud Computing** and **AI Ethics**
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/isha-mahajan-838882262/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1EA-BHHt04SazyrYEJSEZXd-ovC5v061q/view?usp=sharing)
-- 📚 &nbsp; Fun fact : I have mastered the art of googling errors 
+- 📚 &nbsp; Fun fact: I have mastered the art of googling errors
+- 🎨 &nbsp; I enjoy **building projects** and experimenting with **new tech stacks**
+- 🎮 &nbsp; In my free time, I love **reading books** 
+
 
 
 
