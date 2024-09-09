@@ -1,4 +1,6 @@
-<h1 align="center">🌟 Passionate Learner & Problem Solver</h1>
+<div align="center">
+
+<h1>🌟 Passionate Learner & Problem Solver</h1>
 
 - 🌱 I’m currently learning **Spring, Cloud, GenAI, Data Streaming**
 
@@ -7,6 +9,9 @@
 - 📫 How to reach me: **mahajanisha508@gmail.com**
 
 - ⚡ Fun fact: **I’ve perfected the art of Googling error messages.**
+
+</div>
+
 
 # 🌐 Socials
 
