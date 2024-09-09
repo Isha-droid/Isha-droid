@@ -7,9 +7,7 @@
 
 # 🌐 Socials
 
-[![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://www.instagram.com/mahajani.sha/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/isha-mahajan-838882262/)
-[![LinkedIn](https://skillicons.dev/icons?i=leetcode&perline=3)](https://www.linkedin.com/in/mahajanisha/)
 
 
 # 💻 Tech Stack
@@ -24,6 +22,7 @@
 [![NextJs](https://skillicons.dev/icons?i=nextjs&perline=3)](https://skillicons.dev)
 [![Redux](https://skillicons.dev/icons?i=redux&perline=3)](https://skillicons.dev)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&perline=3)](https://skillicons.dev)
+
 
 ## Backend 🤕
 
@@ -45,17 +44,12 @@
 [![git](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev)
 [![github](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev)
 [![graphql](https://skillicons.dev/icons?i=graphql&perline=3)](https://skillicons.dev)
-[![pug](https://skillicons.dev/icons?i=pug&perline=3)](https://skillicons.dev)
 [![tensorflow](https://skillicons.dev/icons?i=tensorflow&perline=3)](https://skillicons.dev)
 [![vscode](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
 
 # 📊 GitHub Stats
 
 ![Isha-Droid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isha-droid&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
-
-## GitHub | Quine Stats
-
-[![Isha-Droid's Quine GitHub Stats](https://stats.quine.sh/isha-droid/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=isha-droid)
 
 
 ## 🏆 GitHub Trophies
